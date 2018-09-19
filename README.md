@@ -5,17 +5,17 @@
 
 ### Metadata Activity
 
-What are the "methods" of the humanities?
+
 
 ```
-1.  
+ 
 ```
 
 ## Thinking about Metadata
 
 
 ```
-Often, 
+ 
 ```
 
 ## Getting Started with Humanities Data
